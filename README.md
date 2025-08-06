@@ -65,7 +65,8 @@ This project uses a **PIR motion sensor** to act like an alarm system. When buil
 
 ## Images / Video
 
-- ![Motion Sensor Circuit Setup](images/motion_system_setup.jpg)
+- ![Motion Sensor Circuit Setup](20250728_142900.jpg)
+- ![Motion Sensor Circuit Setup](20250728_142904.jpg)
 
 ---
 
